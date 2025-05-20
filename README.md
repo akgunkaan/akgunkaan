@@ -1,4 +1,6 @@
-## Hi there 👋
+##👋 Hi, I’m Kaan Akgün
+
+##👀 I’m interested in Autonomous Driving Testing and AI-based Systems, with a focus on Safety Engineering and Simulation Environments.
 
 <!--
 **akgunkaan/akgunkaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
