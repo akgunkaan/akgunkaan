@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akgunkaan/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:info@kakgun.com)
-[![PGP Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=for-the-badge&logo=gnupg)](https://github.com/kullanici_adin.gpg)
+[![PGP Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=for-the-badge&logo=gnupg)](https://github.com/akgunkaan.gpg)
 
 ---
 
